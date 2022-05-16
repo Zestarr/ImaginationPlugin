@@ -1,0 +1,8 @@
+name: Imagination
+version: '${project.version}'
+main: com.zestarr.main.main.Main
+api-version: 1.18
+authors: [ Zestarr ]
+description: Plugin made to spike your imagination, into creating bright new ideas.
+commands:
+  imagination:
